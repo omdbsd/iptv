@@ -22,20 +22,20 @@
 =======================================
 
  
-
-美东
+#EXTM3U
+#EXTINF:-1 ,美东
 https://live.ntdtv.com/live400/playlist.m3u8
-美西
+#EXTINF:-1 ,美西
 https://live.ntdtv.com/uwlive520/playlist.m3u8
-中国
+#EXTINF:-1 ,中国
 https://live.ntdtv.com/cnlive/playlist.m3u8
-加东
+#EXTINF:-1 ,加东
 https://live.ntdtv.com/mllive860/playlist.m3u8
-加西
+#EXTINF:-1 ,加西
 https://live.ntdtv.com/cwlive860/playlist.m3u8
-亚太
+#EXTINF:-1 ,亚太
 https://live.ntdtv.com/aplive200/playlist.m3u8
-旧金山
+#EXTINF:-1 ,旧金山
 https://live.ntdtv.com/sflive990/playlist.m3u8
-休斯頓
+#EXTINF:-1 ,休斯頓
 https://live.ntdtv.com/htlive480/playlist.m3u8
